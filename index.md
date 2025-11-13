@@ -1,4 +1,3 @@
-# Ruby Ahlvin
 
 Welcome to my Data Science webpage for Homework 05.
 
