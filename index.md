@@ -12,4 +12,7 @@ Below is an interactive Plotly visualization from my geolocation analysis, showi
   <p>Your browser does not support iframes.</p>
 </iframe>
 
+For my Above and Beyond component, I added an additional visualization showing Professor Schueller's travel distance by day of the week, separated by season. 
+
+
 This site will eventually host my final data analysis project and interactive visualizations.
