@@ -8,10 +8,8 @@ Below you can exlpore my project work:
 
 Below is an interactive Plotly visualization from my geolocation analysis, showing Professor Schueller's movement across each season. 
 
-<iframe src="schueller_map.html"
-        width="100%"
-        height="600"
-        style="border:none;">
+<iframe src="schueller_map.html" width="100%" height="600" style="border:none;">
+  <p>Your browser does not support iframes.</p>
 </iframe>
 
 This site will eventually host my final data analysis project and interactive visualizations.
