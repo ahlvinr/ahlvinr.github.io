@@ -3,8 +3,7 @@ Welcome to my Data Science webpage for Homework 05.
 
 Below you can exlpore my project work:
 
-**- Data Sources and Project Ideas:
-**
+**- Data Sources and Project Ideas:**
 
 Dataset 1: Student Success: Factors & Insights
 - Source: Kaggle (Anas Sarfraz)https://www.kaggle.com/datasets/anassarfraz13/student-success-factors-and-insights?resource=download 
@@ -32,8 +31,7 @@ Dataset 5: Student Performance Factors
 - Analysis ideas: With this dataset, I would want to look at what are key predictors of academic performance, using something like correlations to see which variables show the strongest relationships with exam score. I could then visualize these correlations using scatterplots, heatmaps, or ranked bar charts. 
 
 
-**- Where's Schueller? Vizualization Analysis:
-**
+**- Where's Schueller? Vizualization Analysis:**
 
 Below is an interactive Plotly visualization from my geolocation analysis, showing Professor Schueller's movement across each season. 
 
