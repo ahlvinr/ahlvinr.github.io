@@ -3,7 +3,7 @@ Welcome to my Data Science webpage for Homework 05.
 
 Below you can exlpore my project work:
 
-**- Data Sources and Project Ideas:**
+## **Data Sources and Project Ideas**
 
 Dataset 1: Student Success: Factors & Insights
 - Source: Kaggle (Anas Sarfraz)https://www.kaggle.com/datasets/anassarfraz13/student-success-factors-and-insights?resource=download 
