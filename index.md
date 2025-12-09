@@ -13,10 +13,6 @@ The analysis includes data cleaning, multiple regression models, an SES index, a
   </a>
 </p>
 
-<p style="color:#555; font-size:14px; margin-top:6px;">
-  A data science analysis of how socioeconomic status predicts exam outcomes.
-</p>
-
 ### **Data Sources and Project Ideas**
 
 Dataset 1: Student Success: Factors & Insights
