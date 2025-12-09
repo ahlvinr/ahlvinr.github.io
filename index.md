@@ -6,12 +6,20 @@ Welcome to my main Data Science webpage. Below you can explore my project work:
 This project analyzes how socioeconomic status influences exam outcomes using a large student dataset.
 The analysis includes data cleaning, multiple regression models, an SES index, and interactive visualizations hosted on GitHub Pages.
 
-<p style="margin-top:10px;">
-  <a href="https://ahlvinr.github.io/student-ses-exam-performance/" 
-     style="background:#159957; padding:10px 18px; color:white; border-radius:6px; text-decoration:none; font-size:16px;">
-     View SES Exam Performance Project →
-  </a>
-</p>
+<style>
+.project-btn {
+  background-color: #1f7a8c;
+  color: green;
+  padding: 10px 18px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 600;
+}
+.project-btn:hover {
+  opacity: 0.85;
+}
+</style>
+
 
 
 ### **Data Sources and Project Ideas**
