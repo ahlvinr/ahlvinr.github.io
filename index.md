@@ -1,7 +1,12 @@
 
-Welcome to my Data Science webpage for Homework 05.
+Welcome to my main Data Science webpage.
 
-Below you can exlpore my project work:
+## Featured Project: SES Predictors of Exam Performance
+
+This project analyzes how socioeconomic status influences exam outcomes using a large student dataset.
+The analysis includes data cleaning, multiple regression models, an SES index, and interactive visualizations hosted on GitHub Pages.
+
+<a href="https://ahlvinr.github.io/student-ses-exam-performance/" class="btn">View SES Project</a>
 
 **- Data Sources and Project Ideas**
 
