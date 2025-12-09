@@ -1,7 +1,7 @@
 
 Welcome to my main Data Science webpage. Below you can explore my project work: 
 
-## Featured Project: SES Predictors of Exam Performance
+## **Featured Project: SES Predictors of Exam Performance**
 
 This project analyzes how socioeconomic status influences exam outcomes using a large student dataset.
 The analysis includes data cleaning, multiple regression models, an SES index, and interactive visualizations hosted on GitHub Pages.
@@ -12,6 +12,7 @@ The analysis includes data cleaning, multiple regression models, an SES index, a
      View SES Exam Performance Project →
   </a>
 </p>
+
 
 ### **Data Sources and Project Ideas**
 
